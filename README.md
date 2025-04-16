@@ -51,4 +51,4 @@ Make sure you have a C++17-compatible compiler.
 g++ -std=c++17 main.cpp Board.cpp Space.cpp -o chess
 ./chess
  
-![image alt](https://github.com/Parth02-07/chess/blob/a117f08a9f45b9ebcf517a6cb8da975d25d53db2/Screenshot%20(2).png)
+![Screenshot (2)](https://github.com/user-attachments/assets/71455d26-4d22-402f-8e58-ec727f424d7a)
