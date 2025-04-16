@@ -42,10 +42,10 @@ The core game loop uses the `Board` class to:
 5. Check for check/checkmate/stalemate
 
 ---
-![Screenshot 2025-04-16 133528](https://github.com/user-attachments/assets/1903e52b-59d7-4433-b17e-639462da5ae0)
-![Screenshot 2025-04-16 133541](https://github.com/user-attachments/assets/f72680b0-8124-474f-802e-6b2a1f056197)
-![Screenshot 2025-04-16 133643](https://github.com/user-attachments/assets/24961e9e-6049-4d16-b902-82ef079f80a8)
-![Screenshot 2025-04-16 133554](https://github.com/user-attachments/assets/0572f283-6d71-4147-9b43-4f488d4e359c)
+![Screenshot 2025-04-16 133528](https://github.com/user-attachments/assets/1903e52b-59d7-4433-b17e-639462da5ae0)  
+![Screenshot 2025-04-16 133541](https://github.com/user-attachments/assets/f72680b0-8124-474f-802e-6b2a1f056197)  
+![Screenshot 2025-04-16 133643](https://github.com/user-attachments/assets/24961e9e-6049-4d16-b902-82ef079f80a8)  
+![Screenshot 2025-04-16 133554](https://github.com/user-attachments/assets/0572f283-6d71-4147-9b43-4f488d4e359c)  
 
 ## 🛠️ How to Compile
 
